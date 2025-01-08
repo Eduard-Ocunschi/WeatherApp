@@ -1,5 +1,5 @@
 const baseUrl = "https://api.openweathermap.org/data/2.5";
-const API_KEY = "ce8609e9f4c131dd3b77d634de3af5bb";
+const API_KEY = "0d34fc1ae0273f5e6db7b662c05aede1";
 
 export const splitForecastListByDate = function (list) {
   const obj = {};
